@@ -1,2 +1,2 @@
 # vamojoga
-html aula cesusc 
+Projeto da faculdade Cesusc onde iremos fazer nosso trabalho PMI
